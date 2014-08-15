@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <declare-styleable name="AnalogClock">
+        <attr name="color_dail" format="color"/>
+        <attr name="color_hand_hour" format="color"/>
+        <attr name="color_hand_minute" format="color"/>
+        <attr name="color_hand_second" format="color"/>
+        <attr name="color_shadow" format="color"/>
+    </declare-styleable>
+</resources>
